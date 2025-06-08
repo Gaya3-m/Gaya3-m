@@ -1,8 +1,7 @@
 ## ✨ Hola! I'm Gayathri Mangalarapu 👩‍💻
 
-• A passionate CS student @ Keshav Memorial Institute of Technology
-• Love solving real-world problems through code 
-• DSA + Dev !!!
+• A passionate CS student @ Keshav Memorial Institute of Technology<br/>
+• DSA + Dev !!!<br/>
 • Fueled by curiosity, coffee, and coding => I code like I PlayList-En... 
 
 ---
